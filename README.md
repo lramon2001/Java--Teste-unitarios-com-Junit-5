@@ -3,8 +3,9 @@ Java- Teste unitários com Junit 5 :coffee: :heavy_check_mark: - Repositório cr
 
 ## Aula 1
 
-Na aula 1 foi demonstrado como adicionar o junit como dependência maven e como efetuar o primeiro 
+Na aula 1 foi demonstrado como adicionar o junit como dependência maven e como efetuar o primeiro.
 
+Dependência adicionada ao pom.xml:
 ```xml 
 <dependency>
     <groupId>org.junit.jupiter</groupId>
