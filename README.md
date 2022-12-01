@@ -27,7 +27,24 @@ Deixarei aqui um exemplo de teste automátizado e o link para a classe que imple
         //execução
         var estaVivo = autor.estaVivo();
         //verificação
-        Assertions.assertEquals(true, estaVivo);;
+        Assertions.assertEquals(true, estaVivo);
+
+    }
+```
+
+## Aula 3
+
+Na aula 3 o professor explorou os diversos métodos estáticos da classe Assertions. Desta forma,modifiquei os métodos para utilizar os métodos Assertions.assertTrue() e Assertions.assertFalse();
+
+```java
+  @Test
+    void testaMetodoEstaVivoQuandoAutorTemDataDeFalecimentoNulaDeveRetornarTrue(){
+        //cenário
+        var autor = new Autor();
+        //execução
+        var estaVivo = autor.estaVivo();
+        //verificação
+        Assertions.assertTrue(estaVivo);;
 
     }
 ```
