@@ -13,3 +13,21 @@ Dependência adicionada ao pom.xml:
     <version>5.9.1</version>
 </dependency>
 ```
+## Aula 2
+
+Na aula 2 foi demonstrado como codificar um método da forma mais simples possível assim como a estrutura básica de uma classe de teste (cenário,execução e verificação).
+
+Deixarei aqui um exemplo de teste automátizado e o link para a classe que implementa outros casos de teste.
+
+```java
+   @Test
+    void testaMetodoEstaVivoQuandoAutorTemDataDeFalecimentoNulaDeveRetornarTrue(){
+        //cenário
+        var autor = new Autor();
+        //execução
+        var estaVivo = autor.estaVivo();
+        //verificação
+        Assertions.assertEquals(true, estaVivo);;
+
+    }
+```
