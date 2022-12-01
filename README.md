@@ -49,4 +49,4 @@ Na aula 3 o professor explorou os diversos métodos estáticos da classe Asserti
     }
 ```
 
-Clique [aqui]() para verificar as implementações.
+Clique [aqui](https://github.com/lramon2001/Java--Teste-unitarios-com-Junit-5/blob/main/models/AutorTestII.java) para verificar as implementações.
