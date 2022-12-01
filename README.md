@@ -31,7 +31,7 @@ Deixarei aqui um exemplo de teste automátizado e o link para a classe que imple
 
     }
 ```
-
+- Clique [aqui](https://github.com/lramon2001/Java--Teste-unitarios-com-Junit-5/blob/main/models/AutorTest.java) para verificar as implementações.
 ## Aula 3
 
 Na aula 3 o professor explorou os diversos métodos estáticos da classe Assertions. Desta forma,modifiquei os métodos para utilizar os métodos Assertions.assertTrue() e Assertions.assertFalse();
@@ -48,3 +48,5 @@ Na aula 3 o professor explorou os diversos métodos estáticos da classe Asserti
 
     }
 ```
+
+Clique [aqui]() para verificar as implementações.
