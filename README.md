@@ -50,3 +50,16 @@ Na aula 3 o professor explorou os diversos métodos estáticos da classe Asserti
 ```
 
 Clique [aqui](https://github.com/lramon2001/Java--Teste-unitarios-com-Junit-5/blob/main/models/AutorTestII.java) para verificar as implementações.
+
+## Aula 4
+
+Na aula 4 foi demonstrado a famosa técnica do TDD (Test Driven Development) que seria o desenvolvimento orientado a testes. O TDD é pautado em três etapas:
+- Escrevemos um Teste que inicialmente não passa (Red);
+- Adicionamos uma nova funcionalidade do sistema;
+- Fazemos o Teste passar (Green);
+- Refatoramos o código da nova funcionalidade (Refactoring).
+
+No nosso caso implementamos a funcionalidade de empréstimo na camada serviço da biblioteca e escrevemos o teste (antes) para a funcionalidade.
+
+Clique [aqui]() para verificar a implementação do teste e [aqui]() para analisar a funcionalidade desenvolvida.
+
