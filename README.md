@@ -61,7 +61,7 @@ Na aula 4 foi demonstrado a famosa técnica do TDD (Test Driven Development) que
 
 No nosso caso implementamos a funcionalidade de empréstimo na camada serviço da biblioteca e escrevemos o teste (antes) para a funcionalidade.
 
-Clique [aqui]() para verificar a implementação do teste e [aqui](https://github.com/lramon2001/Java--Teste-unitarios-com-Junit-5/blob/main/services/EmprestimoService.java) para analisar a funcionalidade desenvolvida.
+Clique [aqui](https://github.com/lramon2001/Java--Teste-unitarios-com-Junit-5/blob/main/services/EmprestimoServiceTest.java) para verificar a implementação do teste e [aqui](https://github.com/lramon2001/Java--Teste-unitarios-com-Junit-5/blob/main/services/EmprestimoService.java) para analisar a funcionalidade desenvolvida.
 
 ## Aula 5
 Na aula 5 o professor sugeriu que refatorassemos o código da funcionalidade para que, dessa forma, garantir aumento na legibilidade e qualidade do código. Caso deseje verificar a minha refatoração que consistiu em retirar um magic number e outros code smell basta clicar [aqui]();
