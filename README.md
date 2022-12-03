@@ -63,3 +63,5 @@ No nosso caso implementamos a funcionalidade de empréstimo na camada serviço d
 
 Clique [aqui]() para verificar a implementação do teste e [aqui]() para analisar a funcionalidade desenvolvida.
 
+## Aula 5
+Na aula 5 o professor sugeriu que refatorassemos o código da funcionalidade para que, dessa forma, garantir aumento na legibilidade e qualidade do código. Caso deseje verificar a minha refatoração que consistiu em retirar um magic number e outros code smell basta clicar [aqui]();
