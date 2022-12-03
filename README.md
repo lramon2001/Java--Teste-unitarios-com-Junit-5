@@ -65,3 +65,6 @@ Clique [aqui](https://github.com/lramon2001/Java--Teste-unitarios-com-Junit-5/bl
 
 ## Aula 5
 Na aula 5 o professor sugeriu que refatorassemos o código da funcionalidade para que, dessa forma, garantir aumento na legibilidade e qualidade do código. Caso deseje verificar a minha refatoração que consistiu em retirar um magic number e outros code smell basta clicar [aqui](https://github.com/lramon2001/Java--Teste-unitarios-com-Junit-5/blob/main/services/EsprestimoServiceRefatorado.java);
+
+## Aula 6
+Na aula 6 o professor sugeriu mais um exercicio do TDD. Desta forma implementei um método que modifica o prazo para devolução de acordo com a reputação do autor. A implementação está disponível [aqui]() e os testes estão disponiveis [aqui]().
