@@ -64,4 +64,4 @@ No nosso caso implementamos a funcionalidade de empréstimo na camada serviço d
 Clique [aqui](https://github.com/lramon2001/Java--Teste-unitarios-com-Junit-5/blob/main/services/EmprestimoServiceTest.java) para verificar a implementação do teste e [aqui](https://github.com/lramon2001/Java--Teste-unitarios-com-Junit-5/blob/main/services/EmprestimoService.java) para analisar a funcionalidade desenvolvida.
 
 ## Aula 5
-Na aula 5 o professor sugeriu que refatorassemos o código da funcionalidade para que, dessa forma, garantir aumento na legibilidade e qualidade do código. Caso deseje verificar a minha refatoração que consistiu em retirar um magic number e outros code smell basta clicar [aqui]();
+Na aula 5 o professor sugeriu que refatorassemos o código da funcionalidade para que, dessa forma, garantir aumento na legibilidade e qualidade do código. Caso deseje verificar a minha refatoração que consistiu em retirar um magic number e outros code smell basta clicar [aqui](https://github.com/lramon2001/Java--Teste-unitarios-com-Junit-5/blob/main/services/EsprestimoServiceRefatorado.java);
