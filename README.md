@@ -68,3 +68,8 @@ Na aula 5 o professor sugeriu que refatorassemos o código da funcionalidade par
 
 ## Aula 6
 Na aula 6 o professor sugeriu mais um exercicio do TDD. Desta forma implementei um método que modifica o prazo para devolução de acordo com a reputação do autor. A implementação está disponível [aqui]() e os testes estão disponiveis [aqui]().
+
+## Aula 7
+Na aula 7 o professor sugeriu que fizessemos uma refatorção do código para finalizar as etapas do TDD. Diante dessa tarefa, melhorei a qualidade do código retirando os if,else if e else alinhados e adicionando um método abstrado para o enum. Esse tipo de pattern é conhecido com strategy pattern
+Clique [aqui]() para conferir a implementação dos métodos abstratos e aqui para olhar a implementação do método após a refatoração.
+
