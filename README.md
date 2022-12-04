@@ -75,3 +75,13 @@ Clique [aqui](https://github.com/lramon2001/Java--Teste-unitarios-com-Junit-5/bl
 
 ## Aula 8
 Na aula 8 o professor ensinou como testar se um metodo está disparando ou não uma exception. Confira [aqui](https://github.com/lramon2001/Java--Teste-unitarios-com-Junit-5/blob/main/services/EmprestimoServiceVJava) a implementação do método que lance uma exeception e [aqui](https://github.com/lramon2001/Java--Teste-unitarios-com-Junit-5/blob/main/services/EmprestimoServiceTestIII.java) um teste que seja capaz de testar isso.
+
+## Aula 9
+Na aula 9 o professor demonstrou as anotations
+```java
+@BeforeAll
+@BeforeEach
+@AfterAll
+@AfterEach
+```
+Dessa forma, declarei o objeto EmprestimosService como atributo da classe e o instanciei em um metodo setup() com a anotation @BeforeAll. Caso queira verificar a implementação deste método clique [aqui]().
