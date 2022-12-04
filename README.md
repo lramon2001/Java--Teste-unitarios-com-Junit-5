@@ -73,3 +73,5 @@ Na aula 6 o professor sugeriu mais um exercicio do TDD. Desta forma implementei 
 Na aula 7 o professor sugeriu que fizessemos uma refatorção do código para finalizar as etapas do TDD. Diante dessa tarefa, melhorei a qualidade do código retirando os if,else if e else alinhados e adicionando um método abstrado para o enum. Esse tipo de pattern é conhecido com strategy pattern
 Clique [aqui](https://github.com/lramon2001/Java--Teste-unitarios-com-Junit-5/blob/main/enums/Reputacao.java) para conferir a implementação dos métodos abstratos e [aqui](https://github.com/lramon2001/Java--Teste-unitarios-com-Junit-5/blob/main/services/EmprestimoServiceIII.Java) para olhar a implementação do método após a refatoração.
 
+## Aula 8
+Na aula 8 o professor ensinou como testar se um metodo está disparando ou não uma exception. Confira [aqui]() a implementação do método que lance uma exeception e [aqui]() um teste que seja capaz de testar isso.
