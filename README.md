@@ -74,7 +74,7 @@ Na aula 7 o professor sugeriu que fizessemos uma refatorção do código para fi
 Clique [aqui](https://github.com/lramon2001/Java--Teste-unitarios-com-Junit-5/blob/main/enums/Reputacao.java) para conferir a implementação dos métodos abstratos e [aqui](https://github.com/lramon2001/Java--Teste-unitarios-com-Junit-5/blob/main/services/EmprestimoServiceIII.Java) para olhar a implementação do método após a refatoração.
 
 ## Aula 8
-Na aula 8 o professor ensinou como testar se um metodo está disparando ou não uma exception. Confira [aqui](https://github.com/lramon2001/Java--Teste-unitarios-com-Junit-5/blob/main/services/EmprestimoServiceVJava) a implementação do método que lance uma exeception e [aqui](https://github.com/lramon2001/Java--Teste-unitarios-com-Junit-5/blob/main/services/EmprestimoServiceTestIII.java) um teste que seja capaz de testar isso.
+Na aula 8 o professor ensinou como testar se um metodo está disparando ou não uma exception. Confira [aqui](https://github.com/lramon2001/Java--Teste-unitarios-com-Junit-5/blob/main/services/EmprestimoServiceVI.Java) a implementação do método que lance uma exeception e [aqui](https://github.com/lramon2001/Java--Teste-unitarios-com-Junit-5/blob/main/services/EmprestimoServiceTestIII.java) um teste que seja capaz de testar isso.
 
 ## Aula 9
 Na aula 9 o professor demonstrou as anotations
