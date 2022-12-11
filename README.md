@@ -88,3 +88,16 @@ Dessa forma, declarei o objeto EmprestimosService como atributo da classe e o in
 
 ## Aula 10
 Na aula 10 o professor explicou a importancia de fazer uma camada de builder para objetos de testes para evitar repetição de código. O mais interessante é que esse pattern é utilizado por algumas classes bem conhecidas no java como o StringBuilder e pode ser aplicado em vários contextos. Para visualizar a implementação dos builders clique [aqui](https://github.com/lramon2001/Java--Teste-unitarios-com-Junit-5/tree/main/builders) e para acompanhar a implementação de testes com a devida refatoração clique [aqui](https://github.com/lramon2001/Java--Teste-unitarios-com-Junit-5/blob/main/services/EmprestimoServiceTesteV.java)
+
+## Aula 11 
+Na aula 11 o professor implementou uma interface de DAO para o emprestimoService e criou um método que notifica emprestimos atrasados.
+
+## Aula 12
+Na aula 12 o professor explicou como adicionar o mockito como dependencia do projeto.
+```xml
+<dependency>
+    <groupId>org.mockito</groupId>
+    <artifactId>mockito-junit-jupiter</artifactId>
+    <version>3.11.2</version>
+</dependency>
+```
