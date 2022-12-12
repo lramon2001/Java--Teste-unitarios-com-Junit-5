@@ -103,4 +103,5 @@ Na aula 12 o professor explicou como adicionar o mockito como dependencia do pro
 </dependency>
 ```
 ## Aula 13
-O professor ensinou a notação ExtendWith(MockitoExtension.class), @Mock e @InjectMocks
+O professor ensinou a notação ExtendWith(MockitoExtension.class), @Mock e @InjectMocks. A maneira correta de fazer testes com mock tambem foi demonstrada.
+
